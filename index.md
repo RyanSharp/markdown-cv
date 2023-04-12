@@ -34,10 +34,24 @@ GraphQL, RESTful APIs, OAuth, JWT, Sass, Webpack, AWS, Google Cloud Platform
 
 `Aug 2017 - present`
 __Software Development Engineer__, Amazon, Santa Monica, CA
+* Modernized legacy software stack using TypeScript, GraphQL, NextJS, and AWS
+* Collaborated with cross-function and internationally distributed teams, including product managers, UX designers and other tech teams to understand project requirements and deliver high-quality software solutions on time.
+* Led the development of a modernized company page experience on IMDbPro that resulted in an increase of click throughs to other pages from 46% to 69%.
 
 `Feb 2015 - Aug 2017`
 __Software Developer__, SADA Systems, Los Angeles, CA
+* Lead development of two enterprise applications built for geospatial asset management. Developed a platform to enable a Fortune 500 logistics company to monitor shipments globally with location tracking and alerts based on a number of factors using sensor data.
+* Single handedly rebuilt a client's API using Node.js and Firebase, completing the project 50% under budget and delivered on Google Cloud Platform.
 
+`June 2014 - December 2014`
+__Software Engineer__, Freelance, Los Angeles, CA
+* Designed and built an application for boosting social media interactions. The software would listen to specific keywords and hashtags using social media APIs (Instagram, Tumblr, Twitter) and schedule interactions with those posts in order to mimic human-like behavior to help promote brand relationships.
+* Developed a tool for scanning and storing QR code links found using google image search. Would use image processing to extract QR code data.
+
+`April 2013 - May 2014`
+__Product Development Associate__, Channel Factory, Irvine, CA
+* Designed and implemented the prototype for what would eventually becomes the company's flagship tool for YouTube content curation based on contextual data
+* Worked closely with the VP of Product Development and the Director of Engineering to develop project specifications and strategy
 
 ## Education
 
