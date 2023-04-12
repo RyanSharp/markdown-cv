@@ -13,7 +13,7 @@ Full Stack Software Engineer
 
 Highly skilled and results-driven Full Stack Software Engineer with 10 years of experience in developing innovative and scalable software application. Proficient in front-end and back-end technologies, with expertise in building robust, high-performance web applications. Strong problem-solving skills and a track record of delivering high-quality code on time and within budget. Excellent communication and teamwork abilities, with a keen eye for detail and a passion for creating exceptional user experiences.
 
-### Technologies
+## Technologies
 
 `Front-End`
 TypeScript/JavaScript, React, Redux, jQuery, HTML, CSS, React Native
