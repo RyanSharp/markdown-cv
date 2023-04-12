@@ -1,91 +1,53 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ryan Sharp's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ryan Sharp
+Full Stack Software Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="rtsharp90@gmail.com">rtsharp90@gmail.com</a>
 </div>
 
+## Summary
 
-## Currently
+Highly skilled and results-driven Full Stack Software Engineer with 10 years of experience in developing innovative and scalable software application. Proficient in front-end and back-end technologies, with expertise in building robust, high-performance web applications. Strong problem-solving skills and a track record of delivering high-quality code on time and within budget. Excellent communication and teamwork abilities, with a keen eye for detail and a passion for creating exceptional user experiences.
 
-Standing on the shoulders of giants
+### Skills
 
-### Specialized in
+`Front-End Technologies`
+TypeScript/JavaScript, React, Redux, jQuery, HTML, CSS, React Native
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`Back-End Technologies`
+Node.js, Express, Django, Spring
 
+`Database Technologies`
+MySQL, PostgreSQL, DynamoDB
 
-### Research interests
+`Server-Side Languages`
+Java, Python, TypeScript/JavaScript
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`Other Tools/Frameworks`
+GraphQL, RESTful APIs, OAuth, JWT, Sass, Webpack, AWS, Google Cloud Platform
+
+## Occupation
+
+`Aug 2017 - present`
+__Software Development Engineer__, Amazon, Santa Monica, CA
+
+`Feb 2015 - Aug 2017`
+__Software Developer__, SADA Systems, Los Angeles, CA
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2008-2013`
+__University of California, Los Angeles__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- Electrical Engineering, B.S.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2023 -->
 
 
