@@ -33,9 +33,9 @@ GraphQL, RESTful APIs, OAuth, JWT, Sass, Webpack, AWS, Google Cloud Platform
 
 `2017 - present`
 __Software Development Engineer__, Amazon, Santa Monica, CA
-* Modernized legacy software stack using TypeScript, GraphQL, NextJS, and AWS
-* Collaborated with cross-function and internationally distributed teams, including product managers, UX designers and other tech teams to understand project requirements and deliver high-quality software solutions on time.
+* Led multiple projects requiring collaboration with cross-function and internationally distributed teams, including product managers, UX designers and other tech teams to understand project requirements and deliver high-quality software solutions on time.
 * Led the development of a modernized company page experience on IMDbPro that resulted in an increase of click throughs to other pages from 46% to 69%.
+* Modernized legacy software stack using TypeScript, GraphQL, NextJS, and AWS
 
 `2015 - 2017`
 __Software Developer__, SADA Systems, Los Angeles, CA
